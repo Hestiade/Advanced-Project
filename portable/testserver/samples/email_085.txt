@@ -1,0 +1,16 @@
+Subject: FedEx: Your Package Delivery is Pending - Action Required
+
+FedEx Express
+
+Dear Customer,
+
+Your package with tracking number #FX-9921-X cannot be delivered because the shipping address is incomplete.
+
+To avoid the package being returned to the sender, please update your address and pay a small "Redelivery Fee" of $1.99.
+
+**[UPDATE SHIPMENT DETAILS]**
+
+A signature will be required upon delivery.
+
+Thank you for choosing FedEx.
+support@fedex-shipping-update.com

@@ -1,0 +1,14 @@
+Subject: Inquiry about Data Privacy for Healthcare Clients
+
+To Whom It May Concern at TechCorp Industries,
+
+Our medical clinic is considering adopting TechCorp's data storage solution. 
+
+However, we need to ensure that the platform is fully HIPAA compliant and that all data at rest and in transit is encrypted using AES-256 or better.
+
+Do you provide a Business Associate Agreement (BAA)? Also, can we request a copy of your latest third-party security audit?
+
+Thank you,
+Dr. Robert Lee
+City Health Clinic
+admin@city-health.org

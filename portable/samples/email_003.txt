@@ -1,0 +1,15 @@
+Subject: Job Application - Senior Software Engineer Position
+
+Dear TechCorp HR Team,
+
+I am writing to apply for the Senior Software Engineer position advertised on your careers page.
+
+I have 8 years of experience in full-stack development, with expertise in Python, React, and cloud infrastructure. I have led teams of 5+ engineers and delivered multiple production systems serving millions of users.
+
+Please find my resume attached. I am available for an interview at your convenience.
+
+Thank you for considering my application.
+
+Sincerely,
+Michael Zhang
+michael.zhang@gmail.com

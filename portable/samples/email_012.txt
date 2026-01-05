@@ -1,0 +1,25 @@
+Subject: Server Maintenance Notification - Scheduled Downtime
+
+Dear TechCorp IT Team,
+
+This is to notify you of scheduled maintenance on the shared infrastructure that hosts TechCorp's cloud services.
+
+Maintenance Window:
+- Date: Saturday, February 15, 2025
+- Time: 02:00 AM - 06:00 AM EST
+- Duration: 4 hours
+
+Affected Services:
+- API endpoints (api.cloudhosting.io)
+- Database clusters
+- Load balancers
+
+During this window, you may experience intermittent connectivity. We recommend pausing any scheduled batch jobs during this time.
+
+No action is required on your part. Services will be restored automatically.
+
+Thank you for your understanding.
+
+Operations Team
+CloudHosting Ltd
+ops@cloudhosting.io

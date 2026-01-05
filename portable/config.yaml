@@ -1,0 +1,44 @@
+# Company Identity (used in LLM prompt)
+company:
+  name: "TechCorp Industries"
+  domain: "techcorp.com"
+  mailbox: "company@mail.local"
+  description: "Enterprise software and cloud solutions provider"
+
+default_action: ai_route  # Use AI to categorize when no rule matches
+
+# Redirect rules (keyword-based fallback for urgent cases)
+rules:
+  - name: "Critical Security"
+    match:
+      keywords: ["security breach", "compromised", "phishing attack", "ransomware"]
+    action:
+      forward_to: "it@mail.local"
+
+# AI routing configuration
+ai_routing:
+  enabled: true
+  destinations:
+    - email: "support@mail.local"
+      description: "Customer support requests, technical help, bug reports, feature requests, warranty claims, refunds, feedback surveys, product issues"
+    
+    - email: "sales@mail.local"
+      description: "Sales inquiries, bulk orders, pricing requests, proposals, client meetings, QBR, partnerships, promotions, newsletters, marketing campaigns"
+    
+    - email: "vendors@mail.local"
+      description: "Invoices, purchase orders, shipping notifications, vendor communications, supplier contracts, procurement, office supplies"
+    
+    - email: "hr@mail.local"
+      description: "Job applications, employee matters, leave requests, performance reviews, onboarding, training, wellness programs, referrals, team events, social activities, office announcements"
+    
+    - email: "it@mail.local"
+      description: "IT support, infrastructure, DevOps, server maintenance, security alerts, VPN, software updates, deployments, code reviews, system outages, database issues"
+    
+    - email: "legal@mail.local"
+      description: "Legal notices, contracts, compliance, DMCA, trademark, cease and desist, audits, board meetings, tax filings, finance reviews, budget approvals"
+    
+    - email: "promotions@mail.local"
+      description: "Marketing emails, newsletters, promotional offers, discount codes, sales campaigns, product announcements, webinar invites, event promotions"
+    
+    - email: "spam@mail.local"
+      description: "Phishing attempts, scam emails, suspicious links, fake lottery, cryptocurrency scams, unsolicited bulk mail"

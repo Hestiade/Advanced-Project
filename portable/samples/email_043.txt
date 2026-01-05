@@ -1,0 +1,18 @@
+Subject: Request for Quote: Training Services
+
+To Whom It May Concern at TechCorp Industries,
+
+Our engineering team is interested in receiving advanced training on the "TechCorp Core" API.
+
+Details:
+- Participants: 15 Senior Developers
+- Focus: Optimization and Security best practices
+- Duration: 2-3 Days
+- Format: Virtual or Onsite (preferred)
+
+Could you provide a quote for this training package? We are looking to schedule this for early April.
+
+Thank you,
+Engineering Lead
+DevOps Solutions Ltd
+training@devops-solutions.io

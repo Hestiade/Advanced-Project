@@ -1,0 +1,16 @@
+Subject: Service Level Agreement (SLA) Violation Report
+
+Dear TechCorp Industries Management,
+
+This email serves as a formal notification of an SLA violation regarding the "Premium Hosting" service for the month of January.
+
+According to our monitoring logs, your service experienced 4 hours of unplanned downtime on Jan 14th. This exceeds the 99.9% uptime guarantee specified in our Master Service Agreement.
+
+Per our contract, we are requesting a service credit of 10% for the affected billing period.
+
+Please acknowledge receipt of this claim.
+
+Regards,
+Technical Lead
+Global Media Corp
+tech@global-media.com

@@ -1,0 +1,40 @@
+# Mail Agent Configuration
+# ========================
+
+# Default action when no rule matches: "analyze" (use AI) or "skip"
+default_action: analyze
+
+# Redirect rules - processed in order, first match wins
+rules:
+  - name: "Work emails"
+    match:
+      from: "*@company.com"
+    action:
+      forward_to: "work@example.com"
+      
+  - name: "Newsletters"
+    match:
+      subject: ["newsletter", "weekly digest", "monthly update"]
+    action:
+      forward_to: "reading@example.com"
+      
+  - name: "Urgent messages"
+    match:
+      keywords: ["urgent", "asap", "immediately", "critical"]
+    action:
+      forward_to: "priority@example.com"
+
+# AI-powered routing for emails that don't match any rule
+ai_routing:
+  enabled: true
+  destinations:
+    - address: "personal@example.com"
+      description: "Personal emails, family, friends"
+    - address: "work@example.com"
+      description: "Work-related, professional contacts"
+    - address: "shopping@example.com"
+      description: "Orders, receipts, shopping alerts"
+    - address: "social@example.com"
+      description: "Social media notifications"
+    - address: "archive@example.com"
+      description: "Low priority, can be read later"

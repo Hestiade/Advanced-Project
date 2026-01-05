@@ -1,0 +1,18 @@
+Subject: Request for Information (RFI) for Project "Blue Horizon"
+
+To Whom It May Concern at TechCorp Industries,
+
+The City of Gotham is issuing an RFI for a new smart-city infrastructure project ("Blue Horizon").
+
+We are seeking information from qualified technology providers regarding:
+- IoT sensor integration
+- Data security and privacy frameworks
+- Scalability for a population of 2 million
+- Historical reliability data
+
+Responses are due by April 1. The full RFI document is attached.
+
+Sincerely,
+Procurement Office
+City of Gotham
+procurement@gotham-city.gov

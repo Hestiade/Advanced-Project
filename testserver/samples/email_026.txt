@@ -1,0 +1,14 @@
+Subject: NDA Draft - Project "Apex" Integration
+
+Dear TechCorp Legal Team,
+
+Attached is the first draft of the Mutual Non-Disclosure Agreement regarding the proposed integration between our "Apex" analytics platform and TechCorp's core engine.
+
+Please review the definitions of "Confidential Information" in Section 2, as we've included specific references to our proprietary algorithm patents.
+
+We are ready to sign once your team gives the green light.
+
+Regards,
+Legal Department
+Apex Analytics
+legal@apex-analytics.io

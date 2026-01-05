@@ -1,0 +1,22 @@
+Subject: Vendor Security Assessment Questionnaire - Annual Review
+
+Dear TechCorp IT Security Team,
+
+As part of our annual vendor risk assessment process, we require TechCorp to complete the attached SIG Lite security questionnaire.
+
+This assessment covers:
+- Data encryption practices
+- Access control policies  
+- Incident response procedures
+- Business continuity planning
+
+Please return the completed questionnaire by March 15, 2025.
+
+We also request a copy of your current SOC 2 Type II report and ISO 27001 certificate.
+
+Thank you for your cooperation.
+
+Amanda Peters
+Vendor Risk Management
+CyberGuard Security
+security@cyberguard.io

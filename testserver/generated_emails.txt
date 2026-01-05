@@ -1,0 +1,153 @@
+From: urgent_sender@example.com
+To: test@mail.local
+Subject: Urgent: Server outage
+Body: Please address the server outage immediately.
+---
+From: newsletter_sender@example.com
+To: test@mail.local
+Subject: Weekly Newsletter
+Body: This is the weekly newsletter with updates.
+---
+From: coworker@company.com
+To: test@mail.local
+Subject: Project Update
+Body: The project is on track for delivery.
+---
+From: promo@shop.com
+To: test@mail.local
+Subject: Limited Time Offer!
+Body: Get 50% off on all items today only.
+---
+From: friend@social.com
+To: test@mail.local
+Subject: Catch up soon?
+Body: Hey, let's meet this weekend.
+---
+From: finance@bank.com
+To: test@mail.local
+Subject: Your account statement
+Body: Please find attached your monthly statement.
+---
+From: travel@agency.com
+To: test@mail.local
+Subject: Vacation Packages
+Body: Explore our new vacation packages.
+---
+From: unknown@random.org
+To: test@mail.local
+Subject: Random Message
+Body: This is a random email.
+---
+From: spammer@spam.com
+To: test@mail.local
+Subject: You won a prize!
+Body: Click here to claim your prize.
+---
+From: spammer@spam.com
+To: test@mail.local
+Subject: Earn money fast
+Body: Work from home and earn $5000 a week.
+---
+From: urgent_sender@example.com
+To: test@mail.local
+Subject: Urgent: Security breach
+Body: Immediate action required for security breach.
+---
+From: newsletter_sender@example.com
+To: test@mail.local
+Subject: Monthly Newsletter
+Body: This month's news and updates.
+---
+From: coworker@company.com
+To: test@mail.local
+Subject: Work schedule change
+Body: Please note the new work schedule.
+---
+From: promo@shop.com
+To: test@mail.local
+Subject: New arrivals!
+Body: Check out our new product line.
+---
+From: friend@social.com
+To: test@mail.local
+Subject: Party invitation
+Body: You're invited to my birthday party.
+---
+From: finance@bank.com
+To: test@mail.local
+Subject: Payment Reminder
+Body: Your payment is due tomorrow.
+---
+From: travel@agency.com
+To: test@mail.local
+Subject: Flight deals
+Body: Discounted flights available now.
+---
+From: unknown@random.org
+To: test@mail.local
+Subject: Mystery Offer
+Body: Open this email for a surprise.
+---
+From: spammer@spam.com
+To: test@mail.local
+Subject: Congratulations, you are selected!
+Body: Claim your reward now.
+---
+From: spammer@spam.com
+To: test@mail.local
+Subject: Cheap meds online
+Body: Buy medication at low prices.
+---
+# ... (continue similarly to reach 100 emails) 
+---
+From: urgent_sender@example.com
+To: test@mail.local
+Subject: Urgent: Database backup needed
+Body: Please backup the database by EOD.
+---
+From: newsletter_sender@example.com
+To: test@mail.local
+Subject: Tech Newsletter
+Body: Latest tech news and articles.
+---
+From: coworker@company.com
+To: test@mail.local
+Subject: Meeting minutes
+Body: Attached are the minutes from today's meeting.
+---
+From: promo@shop.com
+To: test@mail.local
+Subject: Clearance Sale
+Body: Everything must go! Huge discounts.
+---
+From: friend@social.com
+To: test@mail.local
+Subject: Movie night
+Body: Let's watch a movie this Friday.
+---
+From: finance@bank.com
+To: test@mail.local
+Subject: Fraud alert
+Body: Suspicious activity detected on your account.
+---
+From: travel@agency.com
+To: test@mail.local
+Subject: Hotel booking confirmation
+Body: Your hotel booking is confirmed.
+---
+From: unknown@random.org
+To: test@mail.local
+Subject: Unsubscribe request
+Body: Please unsubscribe me from your list.
+---
+From: spammer@spam.com
+To: test@mail.local
+Subject: Work from home opportunity
+Body: Earn $3000 per week from home.
+---
+From: spammer@spam.com
+To: test@mail.local
+Subject: Free gift cards
+Body: Claim your free gift cards now.
+---
+# (Repeat pattern until total reaches 100 entries)

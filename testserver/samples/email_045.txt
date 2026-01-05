@@ -1,0 +1,14 @@
+Subject: Question regarding API Rate Limits for Partner Tier
+
+Attention: TechCorp Sales/Technical Team,
+
+We are currently integrated with TechCorp's "Basic" API tier, but we are reaching our rate limits as our traffic grows.
+
+We would like to discuss upgrading to the "Partner" or "Enterprise" tier. Could you provide a comparison of the rate limits (requests per minute) and the pricing for each tier?
+
+Our current API key is: 4492-AX-8812
+
+Regards,
+Lead Developer
+PartnerSynergy Inc.
+dev@partner-synergy.com

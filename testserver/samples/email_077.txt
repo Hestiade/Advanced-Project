@@ -1,0 +1,12 @@
+Subject: Question about Invoice #INC-0012 Billing Discrepancy
+
+Hello TechCorp Billing Support,
+
+I am reviewing our latest invoice (#INC-0012) and I noticed a discrepancy. We were billed for 150 users, but our active user count for January was only 135.
+
+Could you please verify the user count on your end and issue a credit if an error was made?
+
+Thank you,
+Accounts Payable
+ModernDesign Studio
+ap@moderndesign.io

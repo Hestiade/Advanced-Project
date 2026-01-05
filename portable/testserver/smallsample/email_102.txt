@@ -1,0 +1,15 @@
+Subject: Instructions for New VPN Client
+
+Hi Users,
+
+We are migrating to a new VPN client (Cisco AnyConnect) effective immediately. The old OpenVPN client will stop working on Friday.
+
+**Instructions:**
+1. Go to `vpn.company.com` in your browser.
+2. Login with your AD credentials.
+3. Download the installer for your OS (Windows/Mac).
+4. Run the installer and enter the server address: `vpn.company.com`.
+
+If you have any issues connecting, please open a ticket.
+
+IT Support

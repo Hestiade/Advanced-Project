@@ -1,0 +1,14 @@
+Subject: Critical Vulnerability Alert: Patch Required
+
+Dear TechCorp IT Department,
+
+As your security monitoring partner, we have detected a critical vulnerability (CVE-2025-0012) affecting the version of Nginx currently running on several of your external-facing servers.
+
+Exploitation of this vulnerability could lead to remote code execution.
+
+We strongly recommend updating to the latest stable version of Nginx immediately. Our team is available if you need assistance with the patching process.
+
+Stay secure,
+Security Operations Center
+CyberGuard Security
+soc@cyberguard.io

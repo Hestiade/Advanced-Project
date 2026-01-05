@@ -1,0 +1,16 @@
+Subject: Order Confirmation - PO-9928123
+
+To Whom It May Concern at TechCorp Industries,
+
+We have received your purchase order #9928123 for the following items:
+- 10x Server Racks (Standard 42U)
+- 50x Cat6a 20ft Cables
+- 5x PDU units
+
+Your order is currently being processed and is expected to ship via FedEx Freight on Tuesday, Feb 18th. 
+
+A final shipping notification with tracking info will follow once it leaves our warehouse.
+
+Thank you,
+ServerSupply Co.
+orders@serversupply.com

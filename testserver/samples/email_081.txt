@@ -1,0 +1,14 @@
+Subject: URGENT: Your Apple ID Has Been Locked for Security
+
+Dear Customer,
+
+Your Apple ID has been locked for security reasons. Someone attempted to log in to your account from an unrecognized device in Beijing, China.
+
+To unlock your account, you must verify your identity by clicking the link below:
+
+**[UNLOCK MY APPLE ID]**
+
+Failure to verify within 12 hours will result in permanent suspension of your Apple ID and all associated services (iCloud, App Store, iMessage).
+
+Apple Support Team
+noreply@apple-security-check.com

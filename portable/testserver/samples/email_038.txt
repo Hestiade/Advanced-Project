@@ -1,0 +1,15 @@
+Subject: Maintenance Notice: Database Cluster Upgrade
+
+Dear TechCorp IT Department,
+
+This is a reminder that we will be performing a major version upgrade of our managed database clusters on Sunday, Feb 23rd.
+
+Impact:
+- 10 minutes of read-only mode during the primary switchover.
+- Possible slight latency increases for 30 minutes following the upgrade.
+
+No action is required from your side, but we suggest monitoring your application performance during this window.
+
+Thank you,
+CloudDB Team
+support@clouddb.io

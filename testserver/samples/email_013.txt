@@ -1,0 +1,24 @@
+Subject: Your PayPal Account Access Has Been Limited
+
+PayPal Security Notice
+
+Dear Valued Customer,
+
+We noticed some unusual activity on your PayPal account. For your protection, we have temporarily limited account access.
+
+You cannot:
+- Send money
+- Withdraw funds  
+- Use your debit card
+
+To restore full access, verify your identity immediately:
+
+**[CLICK HERE TO VERIFY ACCOUNT]**
+
+If you do not verify within 48 hours, your account will be permanently restricted.
+
+Reference ID: PP-002-998-121
+
+Thank you for banking with PayPal.
+
+PayPal Security Team

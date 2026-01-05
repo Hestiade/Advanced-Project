@@ -1,0 +1,14 @@
+Subject: Candidate Referral: Senior Frontend Engineer
+
+Dear TechCorp HR Team,
+
+I am a recruiter at TalentFinders Agency. We've previously placed two engineers with TechCorp's infrastructure team.
+
+I have a candidate, Alex Rivera, who is currently a Lead Frontend Engineer at a major e-commerce firm. He has exceptional skills in React, TypeScript, and design systems. He is looking for a new challenge at a company like TechCorp.
+
+His redacted resume is attached. Please let me know if you'd like to see the full version or schedule a call.
+
+Best,
+Sarah Miller
+TalentFinders Recruiting
+s.miller@talentfinders.com

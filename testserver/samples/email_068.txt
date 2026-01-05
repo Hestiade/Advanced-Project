@@ -1,0 +1,15 @@
+Subject: Notice of API Deprecation - Action Required by June 2025
+
+Dear TechCorp Industries Technical Team,
+
+We are writing to inform you that the "v1.2 Search API" will be fully deprecated and retired on June 1, 2025.
+
+Our logs indicate that TechCorp is still making active requests to this endpoint. We strongly recommend migrating to the "v2.x GraphQL API" to avoid service disruption.
+
+Migration documentation is available here: [Link]
+
+Thank you for being a valued partner.
+
+Engineering Team
+SaaS Commerce API
+api-support@saas-commerce.com

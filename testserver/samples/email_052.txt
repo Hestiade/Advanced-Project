@@ -1,0 +1,15 @@
+Subject: Shipping Notification: Order #99281-A
+
+To the TechCorp Industries Receiving Team,
+
+Your recent order of 50x "Model X" units and 20x "Pro Cables" has been shipped via UPS Ground.
+
+Tracking Number: 1Z999X88291001
+Expected Delivery: Feb 18th
+
+Please ensure someone is available at your loading dock between 9 AM and 4 PM to sign for the shipment.
+
+Thank you,
+Fulfillment Team
+VendorPro
+orders@vendorpro.net

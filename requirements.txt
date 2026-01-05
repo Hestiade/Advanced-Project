@@ -1,0 +1,22 @@
+# Core email client
+imapclient>=3.0.0
+
+# AI providers
+google-genai>=1.0.0
+requests>=2.31.0
+
+# Configuration
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# CLI interface
+click>=8.0.0
+rich>=13.0.0
+
+# Web dashboard
+flask>=3.0.0
+flask-socketio>=5.3.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0

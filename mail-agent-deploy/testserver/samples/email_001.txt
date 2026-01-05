@@ -1,0 +1,18 @@
+Subject: Invoice INV-2025-0042 - Payment Due
+
+Dear TechCorp Accounts Payable Team,
+
+Please find attached Invoice #INV-2025-0042 for cloud hosting services rendered in January 2025.
+
+Amount Due: $4,850.00
+Due Date: February 15, 2025
+
+Payment can be made via wire transfer to the account details on the invoice. If you have any questions, please contact our billing department.
+
+Thank you for your continued business.
+
+Best regards,
+Sarah Mitchell
+Accounts Receivable
+CloudHosting Ltd
+billing@cloudhosting.io

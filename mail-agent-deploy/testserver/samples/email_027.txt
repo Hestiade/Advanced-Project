@@ -1,0 +1,15 @@
+Subject: Compliance Inquiry: Data Residency Requirements
+
+Dear TechCorp Management,
+
+We are currently reviewing our data storage providers to ensure compliance with upcoming local privacy regulations.
+
+Could your team provide documentation regarding the physical location of the data centers used for the "TechCloud" service? Specifically, we need to verify if any customer data is stored or processed outside the EU jurisdiction.
+
+Thank you for your assistance in this compliance matter.
+
+Best regards,
+Hans Schmidt
+Data Privacy Officer
+EuroBanking Group
+dpo@eurobanking-group.com

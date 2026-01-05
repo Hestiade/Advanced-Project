@@ -1,0 +1,14 @@
+Subject: Feature Request: Multi-Factor Authentication for Sub-Accounts
+
+To the TechCorp Product Team,
+
+We have been using your platform for 6 months and it has significantly improved our workflow.
+
+However, from a security standpoint, we noticed that sub-accounts currently only support password-based logins. Our security policy requires MFA for all users accessing our data.
+
+Is MFA for sub-accounts on your roadmap? If so, when do you expect it to be released? This is a critical feature for our continued use of the platform.
+
+Best regards,
+Security Manager
+SecureFinance Corp
+security@secure-finance.io

@@ -1,0 +1,14 @@
+Subject: Invoice #SUP-2025-081 - Jan Maintenance
+
+Dear TechCorp Industries Team,
+
+Please find attached Invoice #SUP-2025-081 for the HVAC and cooling system maintenance performed at your main data center last month.
+
+Amount Due: $1,250.00
+Payment Terms: Net 15
+
+Please ensure payment is processed by the due date to avoid service interruption of your quarterly inspection schedule.
+
+Best regards,
+Maintenance Services Inc.
+billing@maint-services.com

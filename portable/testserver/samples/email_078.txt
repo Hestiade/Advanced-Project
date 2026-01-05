@@ -1,0 +1,15 @@
+Subject: Support Ticket #99231: Mobile App Refresh Issue
+
+Dear TechCorp Support Team,
+
+I'm having trouble with the "Swipe to Refresh" gesture in the latest version of your iOS app (v3.2.1).
+
+About 50% of the time, the refresh spinner appears but the data doesn't actually update. I have to kill the app and restart it to see new entries. This is happening on an iPhone 15 Pro running iOS 17.
+
+Is there a known bug or a workaround for this?
+
+Thanks,
+Chris Evans
+Product Designer
+Creative Agency Inc.
+c.evans@creative-agency.io

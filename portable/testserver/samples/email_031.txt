@@ -1,0 +1,13 @@
+Subject: Resume Submission: DevOps Engineer - Sarah Wood
+
+Dear TechCorp HR Team,
+
+I'm writing to express my interest in the DevOps Engineer opening I saw on LinkedIn.
+
+I have extensive experience with Kubernetes, Terraform, and AWS, having managed large-scale deployments for FinTech companies. I'm particularly impressed by TechCorp's commitment to open-source contributions.
+
+My resume is attached for your review. I'd love to discuss how my skills align with your infrastructure goals.
+
+Best regards,
+Sarah Wood
+sarah.wood.devops@gmail.com

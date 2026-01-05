@@ -1,0 +1,17 @@
+Subject: Wire Transfer Instruction - Urgent Request
+
+Dear TechCorp Industries Management,
+
+I am writing on behalf of one of your suppliers, VendorPro. We have updated our banking details for all upcoming wire transfers.
+
+Effective immediately, please send all payments to our new account:
+Bank: Global Trust Bank
+Acct: 9928100231
+Routing: 021100921
+
+Please confirm receipt of these instructions and update your records before the next payment cycle.
+
+Regards,
+Financial Officer
+VendorPro (External)
+finance@vendorpro-global-pay.io

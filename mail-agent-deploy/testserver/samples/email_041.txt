@@ -1,0 +1,21 @@
+Subject: Sales Inquiry: Enterprise License for 500+ Users
+
+Dear TechCorp Industries Sales Team,
+
+I'm the IT Director at Global Manufacturing Co., and we are currently evaluating solutions to replace our legacy project management software.
+
+We've been impressed by your platform's scalability and would like to request a formal proposal for an enterprise license covering 500+ users.
+
+Specific requirements:
+- On-premise deployment option
+- AD/LDAP integration
+- Custom reporting API
+- Dedicated support manager
+
+Are you available for a discovery call later this week?
+
+Regards,
+Thomas Miller
+IT Director
+Global Manufacturing Co.
+t.miller@global-mfg.com

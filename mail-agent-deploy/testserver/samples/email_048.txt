@@ -1,0 +1,14 @@
+Subject: Question about the January 2025 Security Patch
+
+Hello TechCorp Support Team,
+
+I'm reviewing the changelog for the latest security patch (v2.4.1) and I had a question regarding the fix for the SQL injection vulnerability.
+
+The notes mention that "parameterized queries are now enforced," but does this apply to the legacy 'LegacyConnector' module as well? We still use that module for some of our older integrations.
+
+Thank you for the clarification.
+
+Regards,
+Technical Lead
+Infosec Auditors
+tech@infosec-auditors.net

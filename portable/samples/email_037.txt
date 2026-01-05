@@ -1,0 +1,12 @@
+Subject: SSL Certificate Expiry Warning - auth.techcorp.com
+
+Dear TechCorp Industries IT Team,
+
+Your SSL certificate for **auth.techcorp.com** is set to expire in 7 days.
+
+If this certificate is not renewed, your users will see security warnings when attempting to log in to your portal.
+
+You can renew this certificate through our automated portal or by replying to this email.
+
+Certificate Authority Service
+support@cert-authority.net

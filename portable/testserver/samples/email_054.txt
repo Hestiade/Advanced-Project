@@ -1,0 +1,12 @@
+Subject: Update on Pending Credit Note - Invoice #1122
+
+Dear TechCorp Accounts Payable,
+
+I am writing to confirm that we have issued a credit note (CN-0092) in the amount of $450.00 to resolve the pricing discrepancy on Invoice #1122.
+
+This credit will be applied to your next monthly statement. Please let us know if you have any questions.
+
+Regards,
+Billing Dept
+SaaS Tools Inc.
+billing@saas-tools.io

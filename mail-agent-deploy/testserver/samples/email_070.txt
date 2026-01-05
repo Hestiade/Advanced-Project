@@ -1,0 +1,14 @@
+Subject: Urgent: Patch for Zero-Day Vulnerability in "WebPortal-SDK"
+
+Dear TechCorp IT Security Team,
+
+A critical zero-day vulnerability has been discovered in the "WebPortal-SDK" that TechCorp uses for its customer-facing dashboard.
+
+This vulnerability allows for unauthorized authentication bypass. We have released a security patch (v5.1.2) that addresses this issue.
+
+Please apply the patch IMMEDIATELY. Our engineering team is standing by if you require assistance with the update.
+
+Regards,
+Security Lead
+SDK Tools Inc.
+security@sdk-tools.io

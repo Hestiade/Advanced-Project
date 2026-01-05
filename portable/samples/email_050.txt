@@ -1,0 +1,14 @@
+Subject: Feedback on the New Mobile App Dashboard
+
+Dear TechCorp Product Team,
+
+Just wanted to send a quick note to say that the new mobile app dashboard is fantastic! The UI is much more intuitive than the previous version.
+
+One small suggestion: the contrast on the secondary text (timestamps) is a bit low for outdoor use. Darkening that text by 20% would make it much easier to read in bright light.
+
+Keep up the great work!
+
+Cheers,
+David Miller
+Power User
+d.miller@gmail.com

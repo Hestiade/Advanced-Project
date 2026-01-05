@@ -1,0 +1,21 @@
+Subject: Flight Cancellation - Rebooking Required
+
+Dear TechCorp Travel Department,
+
+We regret to inform you that Flight LH401 (Frankfurt to New York) scheduled for February 20, 2025 has been cancelled due to operational reasons.
+
+Affected Booking:
+- Confirmation: XJY772
+- Passenger: David Wilson
+- Original Flight: LH401, Feb 20, 18:30
+
+We have automatically rebooked the passenger on:
+- New Flight: LH403, Feb 21, 10:00
+
+If this alternative is not suitable, please contact us to arrange different options. A full refund is also available.
+
+We apologize for any inconvenience caused.
+
+Customer Service
+Global Airlines
+rebooking@global-airlines.com

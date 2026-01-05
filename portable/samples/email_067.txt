@@ -1,0 +1,14 @@
+Subject: Account Suspended: Exceeded Storage Limits
+
+Attention: TechCorp IT Department,
+
+Your enterprise storage account with "CloudDrive Pro" has been temporarily suspended because you have exceeded your 10TB limit.
+
+Current usage: 10.45 TB
+
+Your team can still read existing data, but no new uploads will be processed until you either delete unnecessary files or upgrade to the 20TB tier.
+
+To upgrade, please visit your account dashboard.
+
+CloudDrive Pro Billing
+support@clouddrive-pro.io

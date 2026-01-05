@@ -1,0 +1,15 @@
+Subject: Feature Request: Export to PDF for Monthly Analytics
+
+Dear TechCorp Product Team,
+
+We love the new analytics dashboard! It has saved us hours of manual data aggregation.
+
+One feature that would make it even better is a "Direct Export to PDF" button. Currently, we have to take screenshots of the charts to include in our monthly board reports. A clean PDF export with TechCorp branding would look much more professional.
+
+Is this on your development roadmap for 2025?
+
+Best regards,
+Emily Watson
+Director of Strategy
+GrowthFirst LLC
+e.watson@growth-first.com

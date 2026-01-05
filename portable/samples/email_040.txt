@@ -1,0 +1,16 @@
+Subject: Urgent: Unauthorized Access Attempt Detected
+
+Dear TechCorp IT Security Team,
+
+Our intrusion detection system has flagged multiple failed login attempts originating from a suspicious IP address (Moscow, Russia) targeting your admin portal.
+
+We have temporarily blocked this IP at the firewall level, but we recommend reviewing your logs and ensuring all admin accounts have MFA enabled.
+
+Details:
+Target: admin.techcorp.com
+Timestamp: Feb 14, 03:12:00 UTC
+Attempts: 154
+
+Security Team
+Global Firewall Services
+ops@global-firewall.com

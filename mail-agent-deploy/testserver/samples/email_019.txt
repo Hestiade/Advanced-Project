@@ -1,0 +1,25 @@
+Subject: SSL Certificate Expiry Warning - *.techcorp.com
+
+Dear TechCorp IT Security Team,
+
+This is an automated notification from your certificate provider.
+
+The following SSL/TLS certificate is expiring soon:
+
+Certificate Details:
+- Domain: *.techcorp.com
+- Current Expiry: March 1, 2025
+- Days Remaining: 14
+
+Action Required:
+Please renew your certificate before expiration to avoid service disruption. Browsers will display security warnings if the certificate expires.
+
+Renewal Options:
+- Log in to your certificate dashboard to renew
+- Contact support for assistance
+
+Need help? Reply to this email or call our support line.
+
+Certificate Services Team
+CertificateAuthority Inc.
+certs@certificate-authority.com

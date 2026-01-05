@@ -1,0 +1,14 @@
+Subject: Payment Reminder: Account Overdue
+
+Attention: TechCorp Finance Department,
+
+This is a friendly reminder that your account with Global Logistics is currently showing an overdue balance of $142.50. This relates to shipping charges from December (Inv #GL-00923).
+
+We value your business and would appreciate it if you could settle this small balance at your earliest convenience. You can pay via our online portal or by phone.
+
+If payment has already been sent, please disregard this notice.
+
+Best regards,
+Billing Team
+Global Logistics
+billing@global-logistics.net

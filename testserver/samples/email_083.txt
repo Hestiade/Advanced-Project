@@ -1,0 +1,14 @@
+Subject: Microsoft 365: Action Required - Password Expiring
+
+Microsoft Office 365
+
+Hello TechCorp User,
+
+Your Microsoft 365 password is set to expire in 24 hours. To avoid being locked out of your email and documents, please use the "Keep current password" button below to extend your password validity for another 90 days.
+
+**[KEEP CURRENT PASSWORD]**
+
+If you do not take action, your account will be disabled at midnight and will require an IT administrator to reset.
+
+Office 365 Security Team
+admin@outlook-office365-verify.com

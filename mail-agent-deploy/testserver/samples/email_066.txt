@@ -1,0 +1,15 @@
+Subject: Security Questionnaire - Annual Vendor Risk Assessment
+
+Dear TechCorp Industries IT Security Team,
+
+As part of our commitment to data security, we require all our technology partners to undergo an annual risk assessment.
+
+Please have your security lead complete the attached questionnaire (v4.0) regarding TechCorp's data handling and incident response protocols.
+
+Completed documents should be returned by March 15, 2025.
+
+Thank you for your cooperation in maintaining a secure ecosystem.
+
+Compliance Manager
+FinSecure Solutions
+security-compliance@finsecure.net
